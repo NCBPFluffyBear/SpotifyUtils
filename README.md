@@ -29,6 +29,7 @@ Every second, SpotifyUtils looks at the title of the Spotify window and sees if 
 | Volume Down | Win + Alt + Z |
 | Add song to blacklist | Win + Alt + Delete |
 | Remove last song in blacklist | Win + Alt + Backspace |
+| Quit the script | Win + Alt + Q |
 
 ### Installation:
 Because this script is not compiled, AutoHotKey(https://www.autohotkey.com/download/) must be downloaded.
